@@ -1,8 +1,21 @@
-{
-    "name": "poing/html5-elements",
-    "autoload": {
-        "psr-0" : {
-            "poing\\html5" : "src"
-        }
-    }
-}
+{  
+    "name": "poing/html5-elements",  
+    "description": "HTML5 Elements for PHP",  
+    "license": "GNU",  
+    "keywords": ["html5"],  
+    "authors": [  
+        {  
+            "name": "Brian LaVallee",  
+            "email": "brian.lavallee@invite-comm.jp"  
+        }  
+    ],  
+    "require": {},  
+    "require-dev": {  
+        "phpunit/phpunit": "4.0.*"  
+    },  
+    "autoload": {  
+        "psr-4": {  
+            "poing\html5-elements": "src"  
+        }  
+    }  
+}  
