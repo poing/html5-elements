@@ -1,0 +1,8 @@
+{
+    "name": "poing/html5-elements",
+    "autoload": {
+        "psr-0" : {
+            "poing\\html5" : "src"
+        }
+    }
+}
