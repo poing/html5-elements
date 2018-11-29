@@ -15,7 +15,7 @@
     },  
     "autoload": {  
         "psr-4": {  
-            "poing\html5-elements": "src"  
+            "poing\\html5-elements\\": "src"  
         }  
     }  
 }  
